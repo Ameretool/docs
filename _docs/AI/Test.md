@@ -2,7 +2,7 @@
 title: Test
 subtitle:	页面展位 | 即将上线
 category: AI
-order: 2
+order: 999
 ---
 
 # 🚧 页面展位
