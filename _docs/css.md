@@ -1,7 +1,6 @@
 ---
-layout: page
 title: CSS 完全导航 | 从入门到精通
-permalink: /css-nav/
+permalink: /css
 description: 覆盖所有 CSS 特性、布局、动画、工具与新规范的终极导航，适合任何阶段的前端开发者。
 ---
 
